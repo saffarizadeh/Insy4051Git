@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Insy4051Git.Model
 {
-    public class Customer
+    public class Appointment
     {
-        public int Id { get; set; }
+        public string Id { get; set; }
     }
 }
